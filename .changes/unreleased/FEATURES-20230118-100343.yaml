@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 kind: FEATURES
 body: 'helper/resource: Added `TF_ACC_PERSIST_WORKING_DIR` environment variable to
   allow persisting of Terraform files generated during each test step'
